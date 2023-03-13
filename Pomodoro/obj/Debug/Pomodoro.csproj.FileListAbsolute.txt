@@ -1,0 +1,11 @@
+C:\GILANG\Kuliah\Semester IV\PBO2\Project\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe.config
+C:\GILANG\Kuliah\Semester IV\PBO2\Project\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe
+C:\GILANG\Kuliah\Semester IV\PBO2\Project\Pomodoro\Pomodoro\bin\Debug\Pomodoro.pdb
+C:\GILANG\Kuliah\Semester IV\PBO2\Project\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.AssemblyReference.cache
+C:\GILANG\Kuliah\Semester IV\PBO2\Project\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.SuggestedBindingRedirects.cache
+C:\GILANG\Kuliah\Semester IV\PBO2\Project\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Form1.resources
+C:\GILANG\Kuliah\Semester IV\PBO2\Project\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Properties.Resources.resources
+C:\GILANG\Kuliah\Semester IV\PBO2\Project\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.GenerateResource.cache
+C:\GILANG\Kuliah\Semester IV\PBO2\Project\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.CoreCompileInputs.cache
+C:\GILANG\Kuliah\Semester IV\PBO2\Project\Pomodoro\Pomodoro\obj\Debug\Pomodoro.exe
+C:\GILANG\Kuliah\Semester IV\PBO2\Project\Pomodoro\Pomodoro\obj\Debug\Pomodoro.pdb
